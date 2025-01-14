@@ -1,12 +1,6 @@
 ---
-id: 0bbceec4ad10fa8c61c2
 title: const prisma = new PrismaClient()を多用してはいけない　lib/prismaを作ろう
-created_at: 2024-06-11T14:02:16+09:00
-updated_at: 2024-06-11T14:10:45+09:00
-tags: [{"name":"TypeScript","versions":[]},{"name":"Next.js","versions":[]},{"name":"prisma","versions":[]}]
-private: false
-url: https://qiita.com/Itsuki54/items/0bbceec4ad10fa8c61c2
-likes_count: 1
+topics: [{"name":"TypeScript","versions":[]},{"name":"Next.js","versions":[]},{"name":"prisma","versions":[]}]
 type: "tech"
 published: true
 ---
