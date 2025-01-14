@@ -7,6 +7,8 @@ tags: [{"name":"TypeScript","versions":[]},{"name":"Next.js","versions":[]},{"na
 private: false
 url: https://qiita.com/Itsuki54/items/0bbceec4ad10fa8c61c2
 likes_count: 1
+type: "tech"
+published: true
 ---
 
 ### lib/prismaに以下を追加するだけです
