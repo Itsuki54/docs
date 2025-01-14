@@ -7,8 +7,6 @@ tags: ["JavaScript","Web","ChatGPT"]
 private: false
 url: https://qiita.com/Itsuki54/items/d4f1be24ffc3a93af83b
 likes_count: 3
-type: "tech"
-published: true
 ---
 
 ## `mjs` と `cjs` の違い

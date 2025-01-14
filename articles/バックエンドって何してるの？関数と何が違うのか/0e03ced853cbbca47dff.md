@@ -7,8 +7,6 @@ tags: ["JavaScript","Web","バックエンド"]
 private: false
 url: https://qiita.com/Itsuki54/items/0e03ced853cbbca47dff
 likes_count: 0
-type: "tech"
-published: true
 ---
 
 ### バックエンドの仕組みとは？
