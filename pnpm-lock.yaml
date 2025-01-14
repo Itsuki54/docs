@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      zenn-cli:
+        specifier: ^0.1.158
+        version: 0.1.158
     devDependencies:
       '@qiita/qiita-cli':
         specifier: ^1.6.1
@@ -524,6 +528,11 @@ packages:
         optional: true
       utf-8-validate:
         optional: true
+
+  zenn-cli@0.1.158:
+    resolution: {integrity: sha512-bvQ96fK+9qw+SKxEmncg/rYU+1u0V6Bh+HuV8By+u4L+VZt/jn9hFyL+KWj/2ncSBDtcEBo6XLsCdNLxlUo+RA==}
+    engines: {node: '>=14.0.0'}
+    hasBin: true
 
 snapshots:
 
@@ -1045,3 +1054,5 @@ snapshots:
       strip-ansi: 7.1.0
 
   ws@8.18.0: {}
+
+  zenn-cli@0.1.158: {}
