@@ -1,12 +1,11 @@
 ---
-id: 0e03ced853cbbca47dff
 title: バックエンドって何してるの？関数と何が違うのか
 created_at: 2024-07-10T14:02:45+09:00
 updated_at: 2024-07-10T14:02:45+09:00
 tags: ["JavaScript","Web","バックエンド"]
-private: false
+
 url: https://qiita.com/Itsuki54/items/0e03ced853cbbca47dff
-likes_count: 0
+
 type: "tech"
 published: true
 ---

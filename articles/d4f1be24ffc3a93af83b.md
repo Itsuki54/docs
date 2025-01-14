@@ -1,12 +1,6 @@
 ---
-id: d4f1be24ffc3a93af83b
 title: mjsとcjsの違いって何？　普通のjsとどう違うの？　ChatGPTに聞いてみた
-created_at: 2024-07-10T13:49:48+09:00
-updated_at: 2024-07-10T13:49:48+09:00
 tags: ["JavaScript","Web","ChatGPT"]
-private: false
-url: https://qiita.com/Itsuki54/items/d4f1be24ffc3a93af83b
-likes_count: 3
 type: "tech"
 published: true
 ---
