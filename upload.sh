@@ -21,7 +21,7 @@ for FILE in $CHANGED_FILES; do
   # ファイル名と同じファイルがqiita/public配下に存在しない場合だけ、npx qiita newを実行
   if [ ! -e "qiita/public/$FILENAME.md" ]; then
     cd ./qiita
-    npx qiita new "$FILENAME"
+    pnpx qiita-cli new "$FILENAME"
     cd ../
   fi
 
